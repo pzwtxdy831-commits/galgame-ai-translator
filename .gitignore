@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.xp3
+*.tsv
+/myproject*/
